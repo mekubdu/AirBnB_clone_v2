@@ -1,8 +1,6 @@
-HolbertonBnB
+HBNB
 ==
 An AirBnB clone.
-
-HolbertonBnB logo
 
 Description
 == 
